@@ -1,5 +1,5 @@
 # aws-website
-A static website hosted on AWS using s3 bucket, Route 53, Certificate manager, and CloudFront.
+A secure website hosted on AWS using s3 bucket, Route 53, Certificate manager, and CloudFront.
 
 # Amazon S3
 Amazon Simple Storage Service(Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. This means that users can store and retrieve any amount of data, at any time, from anywhere on the web.
